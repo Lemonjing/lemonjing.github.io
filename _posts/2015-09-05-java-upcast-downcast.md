@@ -202,7 +202,7 @@ atcom.wensefu.other1.Main.main(Girl.java:36)
 如代码所示，可以通过instanceof来防止出现异常。
 
 <div align="center">
-<img src="http://rann.cc/assets/img/qrcode-horizon1.png"/>
+<img src="http://rann.cc/assets/img/qrcode-horizon1.png" width="855" height="312"/>
 </div>
 
 > 本文系本人个人公众号「梦回少年」原创发布，扫一扫加关注。

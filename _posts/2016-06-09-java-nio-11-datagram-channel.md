@@ -65,7 +65,7 @@ int bytesWritten = channel.write(buf);
 Next: [Java-NIO-12-pipe](http://rann.cc/2016/06/09/java-nio-12-pipe.html)
 
 <div align="center">
-<img src="http://rann.cc/assets/img/qrcode-horizon1.png"/>
+<img src="http://rann.cc/assets/img/qrcode-horizon1.png" width="855" height="312"/>
 </div>
 
 > 本文系本人个人公众号「梦回少年」原创发布，扫一扫加关注。

@@ -130,7 +130,7 @@ NIO可让您只使用一个（或几个）单线程管理多个通道（网络�
 完
 
 <div align="center">
-<img src="http://rann.cc/assets/img/qrcode-horizon1.png"/>
+<img src="http://rann.cc/assets/img/qrcode-horizon1.png" width="855" height="312"/>
 </div>
 
 > 本文系本人个人公众号「梦回少年」原创发布，扫一扫加关注。

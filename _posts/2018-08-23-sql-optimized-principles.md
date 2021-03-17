@@ -107,5 +107,5 @@ ps：公众号已正式接入图灵机器人，快去和我聊聊吧。
 <center>-END-</center>
 
 <div align="center">
-<img src="http://rann.cc/assets/img/qrcode-horizon1.png"/>
+<img src="http://rann.cc/assets/img/qrcode-horizon1.png" width="855" height="312"/>
 </div>
