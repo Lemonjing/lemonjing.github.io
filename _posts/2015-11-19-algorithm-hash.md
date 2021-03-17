@@ -99,7 +99,7 @@ description: 一类问题
 	}
 
 <div align="center">
-<img src="http://rann.cc/assets/img/qrcode-logo.png" width="258" height="258" />
+<img src="http://rann.cc/assets/img/qrcode-horizon1.png"/>
 </div>
 
 > 本文系本人个人公众号「梦回少年」原创发布，扫一扫加关注。
