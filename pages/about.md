@@ -58,7 +58,7 @@ permalink: /pages/about.html
 				Email：
 			</td>  
 			<td>
-				<A href="mailto:xmusaber@163.com">xmusaber@163.com</A>
+				<A href="mailto:chucheng.tr@qq.com">chucheng.tr@qq.com</A>
 			</td>
 		</tr>
 
