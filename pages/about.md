@@ -104,10 +104,11 @@ permalink: /pages/about.html
 	<hr>
 	<br>
 	<p>
-	爱coding，爱生活。<br><br>
-	2016.04 ~ 2016.09月 网易杭州研究院实习。<br><br>
-	2017.06 ~ 至今  滴滴出行大数据开发Spark和Flink RD。<br><br>
-	目前主要从事Flink StreamSQL的开发。
+	爱 Coding, 爱生活。<br><br>
+	2016.4 ~ 2016.9 网易杭州研究院实习。<br><br>
+	2017.6 ~ 2018.8 滴滴出行大数据开发 Spark 和 Flink RD。<br><br>
+	2018.6 ~ 至今   阿里巴巴蚂蚁集团实时计算平台研发<br><br>
+	目前主要从事 Flink 实时计算平台的研发 ^_^
 	</p>
 	<br>
 
